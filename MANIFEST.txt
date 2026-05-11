@@ -1,0 +1,26 @@
+Created archives:
+  total 122M
+  -rw-r--r-- 1 root root 8.1M May 11 14:00 Academic_01.zip
+  -rw-r--r-- 1 root root  11M May 11 14:00 Academic_02.zip
+  -rw-r--r-- 1 root root 3.2M May 11 14:00 Academic_03.zip
+  -rw-r--r-- 1 root root  15M May 11 14:00 Academic_04.zip
+  -rw-r--r-- 1 root root  16M May 11 14:00 Brand_Design_01.zip
+  -rw-r--r-- 1 root root  12M May 11 14:00 Brand_Design_02.zip
+  -rw-r--r-- 1 root root  17M May 11 14:00 Brand_Design_03.zip
+  -rw-r--r-- 1 root root 7.6M May 11 14:00 Brand_Design_04.zip
+  -rw-r--r-- 1 root root 7.0M May 11 14:00 Consulting_Proposal_01.zip
+  -rw-r--r-- 1 root root 3.6M May 11 14:00 Consulting_Proposal_02.zip
+  -rw-r--r-- 1 root root 2.7M May 11 14:00 Consulting_Proposal_03.zip
+  -rw-r--r-- 1 root root 1.1M May 11 14:00 Consulting_Proposal_04.zip
+  -rw-r--r-- 1 root root   18 May 11 14:00 MANIFEST.txt
+  -rw-r--r-- 1 root root 992K May 11 14:00 Market_Research_01.zip
+  -rw-r--r-- 1 root root 818K May 11 14:00 Overview.zip
+  -rw-r--r-- 1 root root 2.3M May 11 14:00 Pitch_Deck.zip
+  -rw-r--r-- 1 root root 8.3M May 11 14:00 Project_Kick-off_01.zip
+  -rw-r--r-- 1 root root 8.2M May 11 14:00 Project_Kick-off_02.zip
+  -rw-r--r-- 1 root root 131K May 11 14:00 docx.zip
+  -rw-r--r-- 1 root root  78K May 11 14:00 pdfs.zip
+  -rw-r--r-- 1 root root 320K May 11 14:00 slides_artifact_tool.zip
+  -rw-r--r-- 1 root root  21K May 11 14:00 slides_container_tools.zip
+  -rw-r--r-- 1 root root  25K May 11 14:00 slides_pptxgenjs_helpers.zip
+  -rw-r--r-- 1 root root  12K May 11 14:00 spreadsheets.zip
